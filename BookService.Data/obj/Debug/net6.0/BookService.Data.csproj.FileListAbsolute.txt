@@ -1,0 +1,15 @@
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.AssemblyInfoInputs.cache
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.AssemblyInfo.cs
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fhall\source\repos\BookService.Data\bin\Debug\net6.0\BookService.Data.deps.json
+C:\Users\Fhall\source\repos\BookService.Data\bin\Debug\net6.0\BookService.Data.dll
+C:\Users\Fhall\source\repos\BookService.Data\bin\Debug\net6.0\BookService.Data.pdb
+C:\Users\Fhall\source\repos\BookService.Data\bin\Debug\net6.0\BookService.Db.dll
+C:\Users\Fhall\source\repos\BookService.Data\bin\Debug\net6.0\BookService.Db.pdb
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.csproj.AssemblyReference.cache
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.csproj.CopyComplete
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.dll
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\refint\BookService.Data.dll
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\BookService.Data.pdb
+C:\Users\Fhall\source\repos\BookService.Data\obj\Debug\net6.0\ref\BookService.Data.dll
