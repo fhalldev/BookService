@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[book]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column book_description in table [dbo].[book] is currently  NCHAR (10) NULL but is being changed to 
+         VARCHAR (MAX) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible
+         with type  VARCHAR (MAX) NOT NULL.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[book] (Default Constraint)
+       unnamed constraint on [dbo].[book] (Default Constraint)
+       unnamed constraint on [dbo].[book] (Default Constraint)
+     Recreate table
+       [dbo].[book] (Table)
+     Alter
+       [dbo].[pr_book_update] (Procedure)
+
+** Supporting actions
+
+The column book_description on table [dbo].[book] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The type for column book_description in table [dbo].[book] is currently  NCHAR (10) NULL but is being changed to  VARCHAR (MAX) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  VARCHAR (MAX) NOT NULL.
+

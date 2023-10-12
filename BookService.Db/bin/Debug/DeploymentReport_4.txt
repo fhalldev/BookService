@@ -1,0 +1,16 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[pr_get_all_books] (Procedure)
+       [dbo].[pr_get_book_by_id] (Procedure)
+
+** Supporting actions

@@ -1,0 +1,6 @@
+C:\Users\Fhall\source\repos\BookService.Db\bin\Debug\BookService.Db.dacpac
+C:\Users\Fhall\source\repos\BookService.Db\bin\Debug\BookService.Db.dll
+C:\Users\Fhall\source\repos\BookService.Db\bin\Debug\BookService.Db.pdb
+C:\Users\Fhall\source\repos\BookService.Db\obj\Debug\BookService.Db.sqlproj.AssemblyReference.cache
+C:\Users\Fhall\source\repos\BookService.Db\obj\Debug\BookService.Db.dll
+C:\Users\Fhall\source\repos\BookService.Db\obj\Debug\BookService.Db.pdb
